@@ -12,12 +12,12 @@ url:         # the base hostname & protocol for your site
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Shanghai
+timezone:          Asia/Guangdong
 markdown:          kramdown
 highlighter:       pygments
 excerpt_separator: <!--more-->
 permalink:         /:year/:month/:title/
-timezone:          Asia/Shanghai
+
 
 kramdown:
   auto_ids:       true
