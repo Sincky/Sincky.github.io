@@ -3,8 +3,8 @@
 # Site wide configuration
 ####################################
 #
-title:       "Streamelody's Blog"
-description: '小河流我愿待在你身旁 听你唱永恒的歌声'
+title:       "Sincky's Blog"
+description: '我的世界，你在哪里'
 url:         # the base hostname & protocol for your site
 
 #
@@ -37,16 +37,16 @@ paginate_path: "page/:num/"
 ####################################
 #
 owner:
-  name: Streamelody
+  name: Sincky
   avatar: avatar.jpg
-  job: "小溪之歌"
-  bio: "小河流我愿待在你身旁 听你唱永恒的歌声"
+  job: "✎﹏ℳ₯➹㎕_"
+  bio: "明天，你好。"
 
-  github: streamelody #username
-  weibo: bailuer #username
-  facebook: streamelody #username
-  email: shuangyeying@gmail.com
-  duoshuo: streamelody #多说域名
+  github: Sincky #username
+  weibo: Sincky丶 #username
+  facebook: #username
+  email: 893723237@qq.com
+  duoshuo: #多说域名
 
   google:
     plus: #username
